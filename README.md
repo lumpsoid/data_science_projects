@@ -19,7 +19,7 @@ The project requires the following dependencies:
 - Python 3.6 or higher
 - Jupyter Notebook
 
-Required Python packages are listed in requirements.txt. 
+Required Python packages are listed in [requirements.txt](requirements.txt). 
 These can be installed using 
 ```
 conda install --file requirements.txt
